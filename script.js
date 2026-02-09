@@ -26,13 +26,13 @@ function displayProducts(products) {
             <div class="price">$${item.price}</div>
             <button class="add-btn" style="background-color: ${item.btnColor}">Add to Cart</button>
         </div>
-        `,
+    `,
     )
     .join("");
 }
 flavorSelect.addEventListener("change", function (e) {
   const selectedFlavor = e.target.value;
-  if (selectFlavor === "all") {
+  if (selectedFlavor === "all") {
     displayProducts(allProducts);
   } else {
     const filtered = allProducts.filter((p) => p.name === selectedFlavor);
