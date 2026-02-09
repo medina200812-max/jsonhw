@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Tasty Kiwi",
+    "price": 5.9,
+    "description": "A refreshing blast made from hand-picked organic kiwis.",
+    "weight": "150g",
+    "ingredients": [
+      "fresh kiwi pulp",
+      "whole milk",
+      "heavy cream",
+      "cane sugar"
+    ],
+    "color": "#E3F4E6",
+    "btnColor": "#98D8A0",
+    "image": "kiwi.png"
+  },
+  {
+    "id": 2,
+    "name": "Dark Chocolate",
+    "price": 4.8,
+    "description": "Indulge in the deep, rich flavor of 70% Belgian cocoa.",
+    "weight": "130g",
+    "ingredients": ["dark chocolate", "cocoa butter", "organic milk", "vanilla extract"],
+    "color": "#FEF1E0",
+    "btnColor": "#F9B14D",
+    "image": "choco.png"
+  },
+  {
+    "id": 3,
+    "name": "Softy Strawberry",
+    "price": 3.5,
+    "description": "A perfect tang of forest blackberries and raspberries.",
+    "weight": "140g",
+    "ingredients": ["mixed berry puree", "greek yogurt", "honey", "lemon juice"],
+    "color": "#FDE9F0",
+    "btnColor": "#F195B2",
+    "image": "strawberry.png"
+  },
+  {
+    "id": 4,
+    "name": "Creamy Blueberry",
+    "price": 4.8,
+    "description": "Zesty and light—the ultimate dairy-free summer treat.",
+    "weight": "125g",
+    "ingredients": ["fresh lemon zest", "purified water", "mint leaves", "agave syrup"],
+    "color": "#E1F5F8",
+    "btnColor": "#79D7E4",
+    "image": "blueberry.png"
+  }
+]
